@@ -1,0 +1,3 @@
+@ECHO OFF
+cd C:\Users\Pratik Hood\eclipse-workspace\Jenkins_Integration_on_Server
+mvn clean install
